@@ -1,0 +1,3795 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Home Page" NameU="Page-1">
+			<Shapes>
+				<Shape ID="1" UniqueID="{A059FDC3-8592-48B8-BFC0-7CE13746C8D2}" Name="Executive" NameU="Executive" Master="2">
+					<Text>Main - Home Page</Text>
+					<XForm>
+						<PinX Unit="MM">7.204724410000000</PinX>
+						<PinY Unit="MM">7.677165354000000</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Main - Home Page</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{875487FD-E821-4A32-9A5D-8D5F73752339}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Menu - Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">1.889763779929129</PinX>
+						<PinY Unit="MM">7.086614173228117</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{D1409168-C32D-4EFE-8266-0ED95942783C}" Name="Manager.11" NameU="Manager.11" Master="4">
+					<Text>Page - List Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">1.889763779929129</PinX>
+						<PinY Unit="MM">6.614173228346227</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 2/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 2/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{B9C5157F-746E-4D90-885C-25B7F554CA8B}" Name="Manager.16" NameU="Manager.16" Master="4">
+					<Text>Menu - Audit and Events Trail</Text>
+					<XForm>
+						<PinX Unit="MM">0.826771653944880</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Audit and Events Trail</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{994A4EFC-288F-416C-8159-88192B65EAE1}" Name="Manager.21" NameU="Manager.21" Master="4">
+					<Text>Page - List Audit Trail Items</Text>
+					<XForm>
+						<PinX Unit="MM">0.826771653944880</PinX>
+						<PinY Unit="MM">6.614173228015749</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 3/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 3/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Audit Trail Items</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{90CAF315-05CE-4BD7-B88B-7E4904F8632D}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Close</Text>
+					<XForm>
+						<PinX Unit="MM">10.393700787802832</PinX>
+						<PinY Unit="MM">7.086614173228110</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Close</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{F0B66258-6931-4BCE-9811-713F6550E4EF}" Name="Manager.31" NameU="Manager.31" Master="4">
+					<Text>Menu - Commands</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535834428</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{EFE00636-B68F-47D5-8AB1-CE65408EB4C4}" Name="Posizione.36" NameU="Position.36" Master="5">
+					<Text>Action - Freeze System</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535834428</PinX>
+						<PinY Unit="MM">6.614173228015749</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Freeze System</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="41" UniqueID="{B57475B6-6F69-49BF-9D14-7659CAE70094}" Name="Manager.41" NameU="Manager.41" Master="4">
+					<Text>Page - List Commands</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535834428</PinX>
+						<PinY Unit="MM">4.724409448488189</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 4/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 4/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="46" UniqueID="{339183BC-ACB6-4A1B-B551-DEECF6D65FFB}" Name="Posizione.46" NameU="Position.46" Master="5">
+					<Text>Action - Manual RTF File Generation and Trasmission</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535834428</PinX>
+						<PinY Unit="MM">5.196850393370079</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Manual RTF File Generation and Trasmission</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="51" UniqueID="{9F3B5906-F36F-431F-8826-BE936EF7A8CD}" Name="Posizione.51" NameU="Position.51" Master="5">
+					<Text>Action - Override Processing Schedule</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535834428</PinX>
+						<PinY Unit="MM">6.141732283133859</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Override Processing Schedule</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="56" UniqueID="{B46F09A9-13AE-40CF-BDE0-D09022ED6441}" Name="Posizione.56" NameU="Position.56" Master="5">
+					<Text>Action - Unfreeze System</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535834428</PinX>
+						<PinY Unit="MM">5.669291338251969</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Unfreeze System</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="61" UniqueID="{9335754F-264D-4667-AC17-B6FCC1A077AC}" Name="Manager.61" NameU="Manager.61" Master="4">
+					<Text>Menu - Configuration Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">7.204724409850182</PinX>
+						<PinY Unit="MM">7.086614173228149</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Configuration Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="66" UniqueID="{47903C15-B3EF-4F46-9412-F4E00412DABC}" Name="Manager.66" NameU="Manager.66" Master="4">
+					<Text>Page - List Business Day Calendar</Text>
+					<XForm>
+						<PinX Unit="MM">7.204724409850182</PinX>
+						<PinY Unit="MM">4.724409448818700</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 5/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 5/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Business Day Calendar</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="71" UniqueID="{48A05943-4ED4-4217-8328-026787A85374}" Name="Manager.71" NameU="Manager.71" Master="4">
+					<Text>Page - List Cycle Configuration Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">7.204724409850182</PinX>
+						<PinY Unit="MM">6.141732283464370</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 6/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 6/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Cycle Configuration Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="76" UniqueID="{178E2DBA-C682-4E22-BE47-2603ABBAB8CB}" Name="Manager.76" NameU="Manager.76" Master="4">
+					<Text>Page - List Service Config Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">7.204724409850182</PinX>
+						<PinY Unit="MM">5.669291338582480</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 7/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 7/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Service Config Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="81" UniqueID="{75C34BEE-4D74-46E3-A24B-3683E7F23277}" Name="Manager.81" NameU="Manager.81" Master="4">
+					<Text>Page - List System Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">7.204724409850182</PinX>
+						<PinY Unit="MM">5.196850393700590</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 8/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 8/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List System Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="86" UniqueID="{54A391DF-8F51-47DC-B737-A1B38853C527}" Name="Posizione.86" NameU="Position.86" Master="5">
+					<Text>Action - List System Configuration Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">7.204724409850182</PinX>
+						<PinY Unit="MM">6.614173228346259</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - List System Configuration Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="91" UniqueID="{2F8BE9FB-15A1-432A-B938-A190453534FB}" Name="Manager.91" NameU="Manager.91" Master="4">
+					<Text>Menu - Data Management</Text>
+					<XForm>
+						<PinX Unit="MM">6.141732283865994</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Data Management</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="96" UniqueID="{7BFEB038-776B-4641-AB5A-B9EFB9207BCA}" Name="Manager.96" NameU="Manager.96" Master="4">
+					<Text>Page - List Default Thresholds Table</Text>
+					<XForm>
+						<PinX Unit="MM">6.141732283865994</PinX>
+						<PinY Unit="MM">6.614173228015749</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 9/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 9/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Default Thresholds Table</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="101" UniqueID="{C6618C32-7354-4648-8233-3B3BC492C099}" Name="Manager.101" NameU="Manager.101" Master="4">
+					<Text>Page - List Liquidity Positions</Text>
+					<XForm>
+						<PinX Unit="MM">6.141732283865994</PinX>
+						<PinY Unit="MM">6.141732283133859</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 10/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 10/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Liquidity Positions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="106" UniqueID="{6ABF7031-D3A8-459D-A3EC-D9786512E4C4}" Name="Manager.106" NameU="Manager.106" Master="4">
+					<Text>Page - List Real Time Positions</Text>
+					<XForm>
+						<PinX Unit="MM">6.141732283865994</PinX>
+						<PinY Unit="MM">5.669291338251969</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 11/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 11/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Real Time Positions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="111" UniqueID="{97A45384-71DE-4694-BC1F-6497BF740D78}" Name="Manager.111" NameU="Manager.111" Master="4">
+					<Text>Menu - Files, Bulks and Transactions</Text>
+					<XForm>
+						<PinX Unit="MM">4.015748031897531</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Files, Bulks and Transactions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="116" UniqueID="{5D6E7677-E370-4AEF-A9BB-3F7471D73502}" Name="Manager.116" NameU="Manager.116" Master="4">
+					<Text>Page - List Bulks</Text>
+					<XForm>
+						<PinX Unit="MM">4.015748031897531</PinX>
+						<PinY Unit="MM">6.141732283133859</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 12/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 12/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Bulks</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="121" UniqueID="{B1923719-1215-4FDA-A826-0F8EE1B4DB43}" Name="Manager.121" NameU="Manager.121" Master="4">
+					<Text>Page - List Files</Text>
+					<XForm>
+						<PinX Unit="MM">4.015748031897531</PinX>
+						<PinY Unit="MM">5.669291338251969</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 13/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 13/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Files</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="126" UniqueID="{42527FE7-F52B-459F-981D-02D1EFBA28FA}" Name="Manager.126" NameU="Manager.126" Master="4">
+					<Text>Page - List Transactions</Text>
+					<XForm>
+						<PinX Unit="MM">4.015748031897531</PinX>
+						<PinY Unit="MM">6.614173228015749</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 14/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 14/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Transactions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="131" UniqueID="{6070309A-9EC1-4DC9-8E66-DE0764F087AB}" Name="Posizione.131" NameU="Position.131" Master="5">
+					<Text>Action - LogOut</Text>
+					<XForm>
+						<PinX Unit="MM">11.456692913787048</PinX>
+						<PinY Unit="MM">7.086614173228110</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - LogOut</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="136" UniqueID="{4EAB1250-1802-4805-A2AD-387003BF4DBD}" Name="Manager.136" NameU="Manager.136" Master="4">
+					<Text>Menu - Monitor the System</Text>
+					<XForm>
+						<PinX Unit="MM">2.952755905913345</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Monitor the System</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="141" UniqueID="{A354969B-604E-4466-9510-8EA7E8E94CE1}" Name="Manager.141" NameU="Manager.141" Master="4">
+					<Text>Page - Settlement Tracking Monitor</Text>
+					<XForm>
+						<PinX Unit="MM">2.952755905913345</PinX>
+						<PinY Unit="MM">6.614173228015749</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 15/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 15/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - Settlement Tracking Monitor</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="146" UniqueID="{EA4D09EF-6F9E-461D-A7A4-3CA073261E33}" Name="Manager.146" NameU="Manager.146" Master="4">
+					<Text>Menu - Routing Tables</Text>
+					<XForm>
+						<PinX Unit="MM">5.078740157881749</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Routing Tables</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="151" UniqueID="{EA5C761D-443D-420B-BA2C-8460655C3FEC}" Name="Posizione.151" NameU="Position.151" Master="5">
+					<Text>Action - Insert Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">5.078740157881749</PinX>
+						<PinY Unit="MM">4.251968503606300</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Insert Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="156" UniqueID="{CFC93EED-1135-4864-8AE1-938517136FDA}" Name="Posizione.156" NameU="Position.156" Master="5">
+					<Text>Action - Insert Indirect Participant</Text>
+					<XForm>
+						<PinX Unit="MM">5.078740157881749</PinX>
+						<PinY Unit="MM">6.614173228015749</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Insert Indirect Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="161" UniqueID="{BF126376-D680-42FE-B288-D65AA4D29865}" Name="Manager.161" NameU="Manager.161" Master="4">
+					<Text>Page - List Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">5.078740157881749</PinX>
+						<PinY Unit="MM">6.141732283133859</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 16/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 16/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="166" UniqueID="{014100E9-9BB5-49CF-B9A3-08B7393F47FC}" Name="Manager.166" NameU="Manager.166" Master="4">
+					<Text>Page - List Indirect Participant</Text>
+					<XForm>
+						<PinX Unit="MM">5.078740157881749</PinX>
+						<PinY Unit="MM">4.724409448488189</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 17/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 17/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Indirect Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="171" UniqueID="{26FD6BA3-9092-452F-A619-165EB1DF158F}" Name="Manager.171" NameU="Manager.171" Master="4">
+					<Text>Page - List Participant Commands</Text>
+					<XForm>
+						<PinX Unit="MM">5.078740157881749</PinX>
+						<PinY Unit="MM">5.196850393370079</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 18/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 18/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Participant Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="176" UniqueID="{F16F34CC-922B-4789-8A31-4F7613196D3B}" Name="Manager.176" NameU="Manager.176" Master="4">
+					<Text>Page - List Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">5.078740157881749</PinX>
+						<PinY Unit="MM">5.669291338251969</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 19/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 19/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="181" UniqueID="{79542184-4620-4F54-8D88-ECF597D67AF7}" Name="Manager.181" NameU="Manager.181" Master="4">
+					<Text>Menu - Statistics Reports</Text>
+					<XForm>
+						<PinX Unit="MM">9.330708661818616</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Menu - Statistics Reports</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="186" UniqueID="{D8BA2932-C6CE-4DB0-8D13-7A82C5B4081E}" Name="Manager.186" NameU="Manager.186" Master="4">
+					<Text>Page - List Downloadable Reports</Text>
+					<XForm>
+						<PinX Unit="MM">9.330708661818616</PinX>
+						<PinY Unit="MM">6.614173228015749</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 20/Sheet.1</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 20/Sheet.1</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Downloadable Reports</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="191" UniqueID="{F2FF593A-D2A9-4B61-A56A-E648ADCB62F7}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.547244094964564</PinX>
+						<PinY Unit="MM">7.322834645503823</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="192" UniqueID="{A240CB58-6868-4730-A6D2-A6E9FAF2F44A}" Name="Connettore dinamico.192" NameU="Dynamic connector.192" Master="15">
+					<XForm>
+						<PinX Unit="MM">1.889763779929129</PinX>
+						<PinY Unit="MM">6.850393700787173</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="193" UniqueID="{A72BC535-A6B0-4E9D-82EB-BDC95CAFC2D7}" Name="Connettore dinamico.193" NameU="Dynamic connector.193" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.015748031972440</PinX>
+						<PinY Unit="MM">7.322834645338583</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="194" UniqueID="{E9617D57-8F3E-4D82-82E6-CE5FC3681091}" Name="Connettore dinamico.194" NameU="Dynamic connector.194" Master="15">
+					<XForm>
+						<PinX Unit="MM">0.826771653944880</PinX>
+						<PinY Unit="MM">6.850393700456694</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="195" UniqueID="{0B759E6E-D1AB-4A4E-93BD-5C398D77A3B2}" Name="Connettore dinamico.195" NameU="Dynamic connector.195" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.799212598901416</PinX>
+						<PinY Unit="MM">7.322834645503820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="196" UniqueID="{E0DB6DCC-745F-4BF5-893B-D36C7B8F18FF}" Name="Connettore dinamico.196" NameU="Dynamic connector.196" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.736220472917214</PinX>
+						<PinY Unit="MM">7.322834645338583</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="197" UniqueID="{F91673BA-C846-4D5B-BAC5-F196AAFC7175}" Name="Connettore dinamico.197" NameU="Dynamic connector.197" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.031496063393483</PinX>
+						<PinY Unit="MM">6.761811023291339</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="198" UniqueID="{88DD60DE-DBE9-4FC4-8C34-4FF78515D325}" Name="Connettore dinamico.198" NameU="Dynamic connector.198" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.031496063393483</PinX>
+						<PinY Unit="MM">5.816929133527560</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="199" UniqueID="{B320351C-159A-4927-A2C1-2505FE5B0CF1}" Name="Connettore dinamico.199" NameU="Dynamic connector.199" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.031496063393483</PinX>
+						<PinY Unit="MM">6.053149605968505</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="200" UniqueID="{A0F8DBC3-20A8-43EB-A8D1-D17ABAB5B94D}" Name="Connettore dinamico.200" NameU="Dynamic connector.200" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.031496063393483</PinX>
+						<PinY Unit="MM">6.525590550850394</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="201" UniqueID="{4210071B-6B79-4925-A8B1-FD114A3001DA}" Name="Connettore dinamico.201" NameU="Dynamic connector.201" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.031496063393483</PinX>
+						<PinY Unit="MM">6.289370078409450</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="202" UniqueID="{9554EBC9-47A4-44CA-86EB-FD5831B784A9}" Name="Connettore dinamico.202" NameU="Dynamic connector.202" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.204724409925091</PinX>
+						<PinY Unit="MM">7.322834645503839</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="203" UniqueID="{56A761F3-70DD-4268-B80B-B72762177D4D}" Name="Connettore dinamico.203" NameU="Dynamic connector.203" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.968503937409237</PinX>
+						<PinY Unit="MM">5.816929133858070</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="204" UniqueID="{3FD9917C-ED7B-4B7E-8D4B-A8B4B3FD4C40}" Name="Connettore dinamico.204" NameU="Dynamic connector.204" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.968503937409237</PinX>
+						<PinY Unit="MM">6.525590551180905</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="205" UniqueID="{5C502E66-B452-459B-B5C6-302E1B650E45}" Name="Connettore dinamico.205" NameU="Dynamic connector.205" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.968503937409237</PinX>
+						<PinY Unit="MM">6.289370078739960</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="206" UniqueID="{00FEA1FF-18BF-4200-9C87-5EE9D8100F8C}" Name="Connettore dinamico.206" NameU="Dynamic connector.206" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.968503937409237</PinX>
+						<PinY Unit="MM">6.053149606299016</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="207" UniqueID="{D84AC3FD-3D32-422A-B454-287C30370E25}" Name="Connettore dinamico.207" NameU="Dynamic connector.207" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.968503937409237</PinX>
+						<PinY Unit="MM">6.761811023621850</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="208" UniqueID="{64A1F512-94CB-4BF6-AD8C-1EC11F404EBC}" Name="Connettore dinamico.208" NameU="Dynamic connector.208" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.673228346932997</PinX>
+						<PinY Unit="MM">7.322834645338583</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="209" UniqueID="{2F3CD69D-FA62-4C1F-BE5B-F4DE78DE11DD}" Name="Connettore dinamico.209" NameU="Dynamic connector.209" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811425049</PinX>
+						<PinY Unit="MM">6.761811023291339</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="210" UniqueID="{0918CB6A-A1B9-40B5-910C-68954A6220E4}" Name="Connettore dinamico.210" NameU="Dynamic connector.210" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811425049</PinX>
+						<PinY Unit="MM">6.525590550850394</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="211" UniqueID="{99A63B43-B691-47F2-9AF9-222D869F0C6E}" Name="Connettore dinamico.211" NameU="Dynamic connector.211" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811425049</PinX>
+						<PinY Unit="MM">6.289370078409450</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="212" UniqueID="{A7715D1A-D645-4926-B031-D3EB2CD05C5D}" Name="Connettore dinamico.212" NameU="Dynamic connector.212" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220948766</PinX>
+						<PinY Unit="MM">7.322834645338583</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="213" UniqueID="{E20761A5-D567-45DE-9F79-349F2659F277}" Name="Connettore dinamico.213" NameU="Dynamic connector.213" Master="15">
+					<XForm>
+						<PinX Unit="MM">3.779527559456586</PinX>
+						<PinY Unit="MM">6.525590550850394</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="214" UniqueID="{539A93CD-8783-40EE-A8DD-4454876FC46C}" Name="Connettore dinamico.214" NameU="Dynamic connector.214" Master="15">
+					<XForm>
+						<PinX Unit="MM">3.779527559456586</PinX>
+						<PinY Unit="MM">6.289370078409450</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="215" UniqueID="{989F7B43-073E-4782-AD1F-914856A1D26E}" Name="Connettore dinamico.215" NameU="Dynamic connector.215" Master="15">
+					<XForm>
+						<PinX Unit="MM">3.779527559456586</PinX>
+						<PinY Unit="MM">6.761811023291339</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="216" UniqueID="{F9BC2B05-66C6-4AFD-B953-633D61CDEEA4}" Name="Connettore dinamico.216" NameU="Dynamic connector.216" Master="15">
+					<XForm>
+						<PinX Unit="MM">9.330708661893524</PinX>
+						<PinY Unit="MM">7.322834645503820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="217" UniqueID="{3D15B35D-62BE-4BB9-A3AF-1D0AD345BFA1}" Name="Connettore dinamico.217" NameU="Dynamic connector.217" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.078740157956672</PinX>
+						<PinY Unit="MM">7.322834645338583</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="218" UniqueID="{EA327359-04EA-4756-80D3-B2BCB57714C9}" Name="Connettore dinamico.218" NameU="Dynamic connector.218" Master="15">
+					<XForm>
+						<PinX Unit="MM">2.952755905913345</PinX>
+						<PinY Unit="MM">6.850393700456694</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="219" UniqueID="{4961B36B-A079-423E-909D-9A9B4DBB239A}" Name="Connettore dinamico.219" NameU="Dynamic connector.219" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.141732283940875</PinX>
+						<PinY Unit="MM">7.322834645338583</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="220" UniqueID="{F7028CC0-2FEF-49E2-B256-A22618152F55}" Name="Connettore dinamico.220" NameU="Dynamic connector.220" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.842519685440804</PinX>
+						<PinY Unit="MM">5.580708661086615</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="221" UniqueID="{53F73CAE-5D44-438F-B45F-2CDE2C451CF2}" Name="Connettore dinamico.221" NameU="Dynamic connector.221" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.842519685440804</PinX>
+						<PinY Unit="MM">6.761811023291339</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="222" UniqueID="{D4711E44-08F9-499F-A1B1-51540B44933C}" Name="Connettore dinamico.222" NameU="Dynamic connector.222" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.842519685440804</PinX>
+						<PinY Unit="MM">6.525590550850394</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="223" UniqueID="{E898CE4A-5EB8-46A8-BFAC-C7D3CB131A6D}" Name="Connettore dinamico.223" NameU="Dynamic connector.223" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.842519685440804</PinX>
+						<PinY Unit="MM">5.816929133527560</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="224" UniqueID="{D7C36E85-8DB4-450E-9BD4-12C2FDF896A4}" Name="Connettore dinamico.224" NameU="Dynamic connector.224" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.842519685440804</PinX>
+						<PinY Unit="MM">6.053149605968505</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="225" UniqueID="{7613B55F-31D6-44E7-AC29-483AFB3B3BC2}" Name="Connettore dinamico.225" NameU="Dynamic connector.225" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.842519685440804</PinX>
+						<PinY Unit="MM">6.289370078409450</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="226" UniqueID="{5F0F743A-B635-47C5-AC77-BEC22A49C36F}" Name="Connettore dinamico.226" NameU="Dynamic connector.226" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.267716535909308</PinX>
+						<PinY Unit="MM">7.322834645338583</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="227" UniqueID="{E27B6DAD-9AC5-46AA-91F6-F70A4BB7E01B}" Name="Connettore dinamico.227" NameU="Dynamic connector.227" Master="15">
+					<XForm>
+						<PinX Unit="MM">9.330708661818616</PinX>
+						<PinY Unit="MM">6.850393700456694</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="5" Name="List Audit Trail" NameU="List Audit Trail">
+			<Shapes>
+				<Shape ID="1" UniqueID="{EB632C6B-5548-4048-89A5-D9942EFC1954}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Audit Trail Items</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.21</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.21</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Audit Trail Items</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{9A7E64D8-EDB4-468D-A1D9-03CFB0975485}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download List Audit</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download List Audit</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{9932F0D3-7DA2-47DE-A8DF-36F9B7D8609F}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search List Audit</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search List Audit</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{E741B9FD-1759-413D-A2D3-7F2B50AFBC84}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{CBE1523A-866B-4821-AF72-6346299D463C}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="List Alerts" NameU="List Alerts">
+			<Shapes>
+				<Shape ID="1" UniqueID="{597DCCCD-1398-4746-AE1D-7B4B0D6B3D14}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.11</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.11</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{E7FDB83F-D7DF-421E-8331-44AF2B27C8B9}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download List Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download List Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{375CEC7A-03C0-4548-B3E4-F772EA58866B}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search List Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search List Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{4D5A9560-477D-40BC-AC20-3EEF432E0B41}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{CBFF0699-16A6-49B2-AFC9-32658CAAA620}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="17" Name="Settlement Tracking Monitor" NameU="Settlement Tracking Monitor">
+			<Shapes>
+				<Shape ID="1" UniqueID="{43622080-E95F-4F52-8E57-65722002A10F}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - Settlement Tracking Monitor</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.141</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.141</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - Settlement Tracking Monitor</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{6CBC9006-1E17-4571-9D95-527D043EB2FB}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download Settlement Tracking</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Settlement Tracking</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{C2A7F81D-501B-4317-B3DA-076B921BC835}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Total Value</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Total Value</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{8326C326-8AE9-44C2-BC62-20928FA8D660}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Total Volume</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Total Volume</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{480B2150-2B92-4AAF-92B9-C107BBB2E7D5}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="22" UniqueID="{94207E63-19DD-4C88-B701-20F0D8B8F070}" Name="Connettore dinamico.22" NameU="Dynamic connector.22" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{8E52C959-464D-437A-A8DD-3D73072B6137}" Name="Connettore dinamico.23" NameU="Dynamic connector.23" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="15" Name="List Files" NameU="List Files">
+			<Shapes>
+				<Shape ID="1" UniqueID="{0233F037-8091-4AFF-BEBB-F79E79422495}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Files</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.121</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.121</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Files</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{801EF4C9-B966-4A89-A653-AB13B9FBC3E1}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Detail file</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail file</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{631B4FEA-23E6-4D96-9A9C-96EADCB2BDAE}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Download List File</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download List File</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{00690F6A-398E-49A0-A6C3-26EC054081EA}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Search List File</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search List File</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{A18DE329-2C73-4B09-AD44-0B6C4EC57B07}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="22" UniqueID="{2CE3A7C9-523E-4129-BDFB-FC07D4D5000E}" Name="Connettore dinamico.22" NameU="Dynamic connector.22" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{C619D3D0-0E7B-4625-A463-FD2D8C157F2D}" Name="Connettore dinamico.23" NameU="Dynamic connector.23" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="24" UniqueID="{D77ACE1B-22B1-44B1-854D-21AC2B8301E2}" Name="Posizione.24" NameU="Position.24" Master="5">
+					<Text>Action - Detail Bulk</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535432811</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Bulk</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="29" UniqueID="{B0727BAE-2A71-4A0D-8D99-5DF96BD8BF1C}" Name="Posizione.29" NameU="Position.29" Master="5">
+					<Text>Action - Download List Bulk</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811023409</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download List Bulk</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="34" UniqueID="{38D2085A-7DCA-4870-BADD-A47E20687DD4}" Name="Posizione.34" NameU="Position.34" Master="5">
+					<Text>Action - Search List Bulk</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search List Bulk</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="39" UniqueID="{EAC5643C-9E42-432F-9EB3-1BF7BA488AB6}" Name="Connettore dinamico.39" NameU="Dynamic connector.39" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="41" UniqueID="{E2DCF4FA-F8FE-46F3-9E99-9E6B22844BA3}" Name="Connettore dinamico.41" NameU="Dynamic connector.41" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.677165354318769</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="40" UniqueID="{36515B0E-29E0-47F7-8192-399409EDDACD}" Name="Connettore dinamico.40" NameU="Dynamic connector.40" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992114068</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="42" UniqueID="{E23C4C46-4D37-4878-B036-D5697EE92B74}" Name="Posizione.42" NameU="Position.42" Master="5">
+					<Text>Action - Detail Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">9.448818897637537</PinX>
+						<PinY Unit="MM">5.905511810692914</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="47" UniqueID="{50C39CFA-75D0-4B03-BD5D-6F85B746CD94}" Name="Posizione.47" NameU="Position.47" Master="5">
+					<Text>Action - Download List Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535432811</PinX>
+						<PinY Unit="MM">5.905511810692914</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download List Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="52" UniqueID="{6B4A1BAC-B071-45DA-923B-83C6DDFB9CA8}" Name="Posizione.52" NameU="Position.52" Master="5">
+					<Text>Action - Search List Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173228087</PinX>
+						<PinY Unit="MM">5.905511810692914</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search List Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="57" UniqueID="{58251E03-E51E-49F0-8651-3211038F4DE1}" Name="Connettore dinamico.57" NameU="Dynamic connector.57" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.267716535432811</PinX>
+						<PinY Unit="MM">6.200787401244096</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="58" UniqueID="{325A0A82-150C-461F-A11F-1289C1F7B35F}" Name="Connettore dinamico.58" NameU="Dynamic connector.58" Master="15">
+					<XForm>
+						<PinX Unit="MM">8.858267716535174</PinX>
+						<PinY Unit="MM">6.200787401244096</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="59" UniqueID="{D7C72E01-47B3-4FEA-8453-1328AD5F6161}" Name="Connettore dinamico.59" NameU="Dynamic connector.59" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.677165354330449</PinX>
+						<PinY Unit="MM">6.200787401244096</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="14" Name="List Bulks" NameU="List Bulks">
+			<Shapes>
+				<Shape ID="1" UniqueID="{00A4BDC5-8BCA-4240-8DCB-2991ECDDB0AF}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Bulks</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.116</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.116</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Bulks</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{A8CF3110-B6F0-45A7-ABCF-EC331ADC8A29}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Detail Bulk</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Bulk</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{06B2DD7E-82A8-4040-88D9-8B617E85FADC}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Download List Bulk</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download List Bulk</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{3DEDE695-2F5F-4455-BF29-289D334A540C}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Search List Bulk</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search List Bulk</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{4B7C1DBB-97C9-4273-A398-53E7DA202F14}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="22" UniqueID="{99A38DBE-126D-4FA1-A6BC-56E4E3223E19}" Name="Connettore dinamico.22" NameU="Dynamic connector.22" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{3611DE8D-8A7A-4DB5-946D-D730201FF877}" Name="Connettore dinamico.23" NameU="Dynamic connector.23" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="24" UniqueID="{3286CE52-7E0F-48F8-BA83-2E90476E0417}" Name="Posizione.24" NameU="Position.24" Master="5">
+					<Text>Action - Detail Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="29" UniqueID="{9486CBF6-F9DB-472A-902A-6ED697B839C4}" Name="Posizione.29" NameU="Position.29" Master="5">
+					<Text>Action - Download List Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download List Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="34" UniqueID="{E63140E7-F14D-4585-9B40-357D741D6FE0}" Name="Posizione.34" NameU="Position.34" Master="5">
+					<Text>Action - Search List Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search List Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="39" UniqueID="{6DDF357B-8811-4569-9687-8389F42FF4E4}" Name="Connettore dinamico.39" NameU="Dynamic connector.39" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="40" UniqueID="{82292E35-141C-453B-A87B-E335584C7E51}" Name="Connettore dinamico.40" NameU="Dynamic connector.40" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="41" UniqueID="{8F02E00C-7F0F-451A-B0CE-936E3A305055}" Name="Connettore dinamico.41" NameU="Dynamic connector.41" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="16" Name="List Transactions" NameU="List Transactions">
+			<Shapes>
+				<Shape ID="1" UniqueID="{F2BEB1B3-3160-46FF-A10B-EAA38FCCD5FB}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Transactions</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.126</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.126</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Transactions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{FB6ECC76-252F-404B-884D-A5BD335F536A}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Detail Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{364A281E-99FD-4F3A-BC86-A63CA7CC73C6}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Download List Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download List Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{4F3681F3-EC66-432A-AC43-B8D6AF19A66B}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Search List Transaction</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search List Transaction</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{D0839DC7-C9CD-4345-9451-C845EA6BC42A}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="22" UniqueID="{108A6638-0311-45BA-96B9-ACEE48D79ACA}" Name="Connettore dinamico.22" NameU="Dynamic connector.22" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="23" UniqueID="{07235D63-538B-4A00-8C28-35A4D5EDDE0F}" Name="Connettore dinamico.23" NameU="Dynamic connector.23" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="18" Name="List Direct Participant" NameU="List Direct Participant">
+			<Shapes>
+				<Shape ID="1" UniqueID="{078EC024-F37D-4DBE-9670-00F1B221221D}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.161</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.161</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{267381C7-9E0C-405A-B6DA-2C9BD0E0AC9C}" Name="Manager.6" NameU="Manager.6" Master="4">
+					<Text>Action - Detail Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{6F44C314-4CB6-4BB9-BCB5-E0E1F1CD5D87}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Channel Switch</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Channel Switch</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{2864B670-797E-47D7-8A25-B2F0235E85F3}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Detail Parameters Modification History</Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267692914</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Parameters Modification History</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{F1A788C7-828B-4B8A-9990-7215809182EB}" Name="Manager.21" NameU="Manager.21" Master="4">
+					<Text>Page - List BRT</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List BRT</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{8CECD5F4-CF2B-473E-B891-323B36FA5B92}" Name="Posizione.26" NameU="Position.26" Master="5">
+					<Text>Action - Download BRT</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">5.905511810692914</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download BRT</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{6E1F0A22-1A68-43EE-A770-19108C64C6CB}" Name="Posizione.31" NameU="Position.31" Master="5">
+					<Text>Action - Insert BRT</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535409450</PinX>
+						<PinY Unit="MM">5.905511810692914</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Insert BRT</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{281D1E92-11E0-4A06-B981-1890C3BEB003}" Name="Posizione.36" NameU="Position.36" Master="5">
+					<Text>Action - Remove BRT</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">5.905511810692914</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Remove BRT</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="41" UniqueID="{80E1723A-A22C-450C-9DC7-14B6DAC77A60}" Name="Posizione.41" NameU="Position.41" Master="5">
+					<Text>Action - Search BRT</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">5.905511810692914</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search BRT</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="46" UniqueID="{DDEA6E05-D171-4675-AA7A-E868C36EDC00}" Name="Posizione.46" NameU="Position.46" Master="5">
+					<Text>Action - Update Parameters Modification History</Text>
+					<XForm>
+						<PinX Unit="MM">2.952755905488190</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Update Parameters Modification History</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="51" UniqueID="{72B32036-E22A-4985-AC66-B413ACF77AE1}" Name="Posizione.51" NameU="Position.51" Master="5">
+					<Text>Action - Download Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">2.362204724385828</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="56" UniqueID="{5E852A4E-C6BA-4509-B6B8-3BEECECC0F91}" Name="Posizione.56" NameU="Position.56" Master="5">
+					<Text>Action - Full BRT</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535409450</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Full BRT</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="61" UniqueID="{2D5A6019-B4E0-4DEA-BF15-4729413D7E40}" Name="Posizione.61" NameU="Position.61" Master="5">
+					<Text>Action - Remove  Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">9.448818897614174</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Remove  Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="66" UniqueID="{3C3CB5E6-9696-471B-9CA4-03DAADE4C7F6}" Name="Posizione.66" NameU="Position.66" Master="5">
+					<Text>Action - Resume  Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Resume  Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="71" UniqueID="{C84F6E48-4A46-4E83-8165-04C62783456E}" Name="Posizione.71" NameU="Position.71" Master="5">
+					<Text>Action - Search Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086590552</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="76" UniqueID="{530004DC-EB27-4CF0-9505-2ED45203AB82}" Name="Posizione.76" NameU="Position.76" Master="5">
+					<Text>Action - Suspend  Direct Participant</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Suspend  Direct Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="81" UniqueID="{46811AE0-2148-4142-92B2-95341DC78CB3}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="82" UniqueID="{20CFCADA-3718-4BEA-99A6-7BE38F5E9866}" Name="Connettore dinamico.82" NameU="Dynamic connector.82" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.019685039346458</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="83" UniqueID="{F442D9F9-486D-4A68-BF75-E9EB2B1761C0}" Name="Connettore dinamico.83" NameU="Dynamic connector.83" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.429133858244095</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="84" UniqueID="{3D8BD3A3-9938-4345-9AA4-5D53F20E2DC8}" Name="Connettore dinamico.84" NameU="Dynamic connector.84" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448820</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="85" UniqueID="{0E72E5C5-C542-44E6-B653-953E6DD40DBB}" Name="Connettore dinamico.85" NameU="Dynamic connector.85" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.791338582653545</PinX>
+						<PinY Unit="MM">6.200787401244096</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="86" UniqueID="{A14918CE-1019-4101-A021-E4F407F03343}" Name="Connettore dinamico.86" NameU="Dynamic connector.86" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.381889763755907</PinX>
+						<PinY Unit="MM">6.200787401244096</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="87" UniqueID="{2B727632-8B9C-465F-9E33-9F3EE21F1DA3}" Name="Connettore dinamico.87" NameU="Dynamic connector.87" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448820</PinX>
+						<PinY Unit="MM">6.200787401244096</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="88" UniqueID="{98C36BCB-A3C7-4D3A-B8E9-6135F1023500}" Name="Connettore dinamico.88" NameU="Dynamic connector.88" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">6.200787401244096</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="89" UniqueID="{FD45F842-12FE-44AC-8089-9AB9107D406B}" Name="Connettore dinamico.89" NameU="Dynamic connector.89" Master="15">
+					<XForm>
+						<PinX Unit="MM">3.838582677141733</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="90" UniqueID="{4433D203-2D4A-486C-8692-D098C105A134}" Name="Connettore dinamico.90" NameU="Dynamic connector.90" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.133858267692914</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="91" UniqueID="{3BD1044F-D5BB-45A6-A4F6-A79059FA0160}" Name="Connettore dinamico.91" NameU="Dynamic connector.91" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="92" UniqueID="{F60B6D8E-7E3A-4F01-8C66-676134EF6280}" Name="Connettore dinamico.92" NameU="Dynamic connector.92" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.677165354307087</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="93" UniqueID="{525276D2-A138-49A3-A4A6-12F61247F800}" Name="Connettore dinamico.93" NameU="Dynamic connector.93" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="94" UniqueID="{BC34861B-FF66-4698-AF49-55F3D2652D22}" Name="Connettore dinamico.94" NameU="Dynamic connector.94" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="95" UniqueID="{6449A4B2-9BBA-47FD-9442-D08D0F15C3A3}" Name="Connettore dinamico.95" NameU="Dynamic connector.95" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="21" Name="List Participant Operations" NameU="List Participant Operations">
+			<Shapes>
+				<Shape ID="1" UniqueID="{3AF527EB-1FDC-4032-8101-857829A318CB}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.176</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.176</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{C9BCB5C5-1EDE-48EC-82D7-677255968DB7}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Authorize All Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Authorize All Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{EE2B6773-4C3C-4394-BCC9-32EEECAA8BE0}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Authorize Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086590552</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Authorize Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{49592BAF-2DAF-42A8-B276-FA56752619FE}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Detail Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">2.362204724385828</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{DCAA660A-6DE8-49A6-BB13-08DFFE4A7ECF}" Name="Posizione.21" NameU="Position.21" Master="5">
+					<Text>Action - Download Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{6FE9D236-CAF2-48ED-80A7-D7BBAA037A46}" Name="Posizione.26" NameU="Position.26" Master="5">
+					<Text>Action - Reject All Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">9.448818897614174</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Reject All Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{8C7069E7-680E-4ED4-A39A-EA906BCBA488}" Name="Posizione.31" NameU="Position.31" Master="5">
+					<Text>Action - Reject Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535409450</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Reject Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{3EEB195D-5461-4C83-8F06-B093F237D7FB}" Name="Posizione.36" NameU="Position.36" Master="5">
+					<Text>Action - Search Participant Operations</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Participant Operations</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="41" UniqueID="{C3608E40-145E-4FB0-8ADB-C14A2B70EDC4}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="42" UniqueID="{A9B03BE6-DD2E-4AB8-B702-2037B3C3BA03}" Name="Connettore dinamico.42" NameU="Dynamic connector.42" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="43" UniqueID="{86FF58E8-D78F-4445-9A49-6FDEF1DF3262}" Name="Connettore dinamico.43" NameU="Dynamic connector.43" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.133858267692914</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="44" UniqueID="{59FB95A2-3A0A-41FC-BC81-DBFEFB9EF34A}" Name="Connettore dinamico.44" NameU="Dynamic connector.44" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="45" UniqueID="{DCDB1E64-B20D-4AD4-AF41-E8C28151AA8D}" Name="Connettore dinamico.45" NameU="Dynamic connector.45" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.677165354307087</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="46" UniqueID="{BECC2E35-25C4-4CE8-AB96-39DF4780014B}" Name="Connettore dinamico.46" NameU="Dynamic connector.46" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="47" UniqueID="{B5450B2B-FFD4-4D88-93E3-A89FDA91C25E}" Name="Connettore dinamico.47" NameU="Dynamic connector.47" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="20" Name="List Participant Commands" NameU="List Participant Commands">
+			<Shapes>
+				<Shape ID="1" UniqueID="{CC0BF172-3039-4414-8DE5-28ED52BAFD2F}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Participant Commands</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.171</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.171</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Participant Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{1A550731-C46E-4D00-B392-AB9BBC06A1D4}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Authorize Participant Commands</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086590552</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Authorize Participant Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{C4DF23F5-4C27-4D9D-91E9-0C8481AABF64}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Detail Participant Commands</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Participant Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{551036D9-6756-424B-AF4A-9C322509D52D}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Download Participant Commands</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Participant Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{21735635-0953-448A-878D-C6D7964298F5}" Name="Posizione.21" NameU="Position.21" Master="5">
+					<Text>Action - Reject Participant Commands</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Reject Participant Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{06D133E0-0F9A-460C-AECD-F828285AEF1E}" Name="Posizione.26" NameU="Position.26" Master="5">
+					<Text>Action - Search Participant Commands</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535409450</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Participant Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{D28412DA-9D86-4613-8AD2-06A2A6EE44D7}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="32" UniqueID="{3C9CA5DE-D035-4804-A970-E0A41450A475}" Name="Connettore dinamico.32" NameU="Dynamic connector.32" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="33" UniqueID="{45578CF3-1696-498F-8C27-852810792101}" Name="Connettore dinamico.33" NameU="Dynamic connector.33" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="34" UniqueID="{DEBF4034-6A84-4FE4-B5D5-8C4B6819C4FB}" Name="Connettore dinamico.34" NameU="Dynamic connector.34" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="35" UniqueID="{3BDFC4AB-0B3A-4F3E-8370-114006F9D5D8}" Name="Connettore dinamico.35" NameU="Dynamic connector.35" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="19" Name="List Indirect Participant" NameU="List Indirect Participant">
+			<Shapes>
+				<Shape ID="1" UniqueID="{E2B1A747-077E-4F00-8826-728F3AF38BD8}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Indirect Participant</Text>
+					<XForm>
+						<PinX Unit="MM">6.141732283000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.166</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.166</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Indirect Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{FFE28B90-EB03-4923-8741-4654C48E577B}" Name="Manager.6" NameU="Manager.6" Master="4">
+					<Text>Action - Detail Indirect Participant</Text>
+					<XForm>
+						<PinX Unit="MM">4.133858267692914</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Indirect Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{03C74129-BC50-457C-ABEB-D7259643EF35}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Detail Indirect Parameters Modification History</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086590552</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Indirect Parameters Modification History</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{DE04B21F-AA13-4E06-BF6D-324979015F75}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Update Indirect Parameters Modification History</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">6.496062991795276</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Update Indirect Parameters Modification History</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{E33AAAC9-8E31-45F8-AEA5-C94788A86531}" Name="Posizione.21" NameU="Position.21" Master="5">
+					<Text>Action - Download Indirect Participant</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Indirect Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{63614ACC-567D-411B-9B45-ED0AD95B8965}" Name="Posizione.26" NameU="Position.26" Master="5">
+					<Text>Action - Remove Indirect Participant</Text>
+					<XForm>
+						<PinX Unit="MM">7.677165354307087</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Remove Indirect Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{F3E735F4-2623-4C4D-8618-D2855499574B}" Name="Posizione.31" NameU="Position.31" Master="5">
+					<Text>Action - Search Indirect Participant</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Indirect Participant</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="36" UniqueID="{F619960E-F95B-4218-81DA-717835FC5344}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.137795275346457</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="37" UniqueID="{89E09D89-8C50-4549-B5A4-5821CE0F104F}" Name="Connettore dinamico.37" NameU="Dynamic connector.37" Master="15">
+					<XForm>
+						<PinX Unit="MM">3.838582677141733</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="38" UniqueID="{4EBD7A17-6BEB-4772-BA29-B24592C5D6AD}" Name="Connettore dinamico.38" NameU="Dynamic connector.38" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.429133858244095</PinX>
+						<PinY Unit="MM">6.791338582346458</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="39" UniqueID="{8E291C70-8C51-4046-8C69-BB56CA7B3705}" Name="Connettore dinamico.39" NameU="Dynamic connector.39" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.728346456448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="40" UniqueID="{6AB74E03-BDEA-40FA-8F61-B25F738B59F0}" Name="Connettore dinamico.40" NameU="Dynamic connector.40" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.909448818653543</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="41" UniqueID="{BE3DAD19-DA80-449F-BCCF-7F98E795B7E9}" Name="Connettore dinamico.41" NameU="Dynamic connector.41" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.318897637551181</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="11" Name="List Default Thresholds Table" NameU="List Default Thresholds Table">
+			<Shapes>
+				<Shape ID="1" UniqueID="{70D6E017-4259-42CC-8F0E-FAA81A5B7A9C}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Default Thresholds Table</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.96</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.96</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Default Thresholds Table</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{0198E31D-84EB-4B09-899B-7AAEF7A3B3E6}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download Default Thresholds Table</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Default Thresholds Table</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{116B2AC6-7FAA-418A-9845-DEC1348D0D26}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search Default Thresholds Table</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Default Thresholds Table</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{7C077FD3-6571-4AD7-9F76-54D35A75526E}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{D0307EB7-033D-4368-B95A-2AD80DD15058}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="12" Name="List Liquidity Positions" NameU="List Liquidity Positions">
+			<Shapes>
+				<Shape ID="1" UniqueID="{BB2F45D8-DCFF-46E6-8953-DA5EA41CA425}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Liquidity Positions</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.101</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.101</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Liquidity Positions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{44CA55CD-F1CF-4813-8433-391C63897469}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download Liquidity Positions</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Liquidity Positions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{14314952-C5ED-4626-B790-86587CD14E37}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search Liquidity Positions</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Liquidity Positions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{E826AC14-AFF9-44C3-A2FA-7AF4665E4D03}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{B5EE06E5-EBCD-400C-930B-8E77D29FF7C6}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="13" Name="List Real Time Positions" NameU="List Real Time Positions">
+			<Shapes>
+				<Shape ID="1" UniqueID="{528F6F2F-F2DE-4C14-924B-64E2DE483AEE}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Real Time Positions</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.106</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.106</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Real Time Positions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{607F7D61-653B-4FDE-8C29-5DDBB5ECEB29}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download Real Time Positions</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Real Time Positions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{376C4B9A-F765-4312-ABE3-07BC41A5A2BE}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search Real Time Positions</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Real Time Positions</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{32C8BA66-C6E4-48D8-8657-E0EFE0CAB7BF}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{451BCE0A-4344-40E1-AAEE-84AA6F515711}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="8" Name="List Cycle Configuration Parameters" NameU="List Cycle Configuration Parameters">
+			<Shapes>
+				<Shape ID="1" UniqueID="{1E9E74E8-E5E0-4959-94DE-B8352E60E7FE}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Cycle Configuration Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.71</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.71</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Cycle Configuration Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{DD6FE222-1F0C-4D42-A72E-4960C5258DEA}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Search  Cycle Configuration Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search  Cycle Configuration Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{C29AC585-E58A-435C-A357-EEBF235CF853}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="9" Name="List Service Config Parameters" NameU="List Service Config Parameters">
+			<Shapes>
+				<Shape ID="1" UniqueID="{042C7D68-D997-4101-8100-C12841E7B9F1}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Service Config Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.76</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.76</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Service Config Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{483F3C3C-B48F-482A-BE65-AF517938E482}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Detail List Service Config Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail List Service Config Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{39443F20-EF93-4010-B5D2-74087D682ABB}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search Service Config Parameters</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Service Config Parameters</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{2262DEA9-A06F-42B9-9444-D95D7B1B5571}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{28652EE9-152C-48B9-94FA-1F3D55709A1F}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="10" Name="List System Alerts" NameU="List System Alerts">
+			<Shapes>
+				<Shape ID="1" UniqueID="{C9CB5174-1059-4E6C-8B07-FA6659E0F3F3}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List System Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.81</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.81</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List System Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{2BC904DA-F74E-475A-B484-8D73FCDFE33C}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download System Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download System Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{60914FCF-9FD5-445C-B05E-E48E59370430}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search System Alerts</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search System Alerts</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{D0D5B9E4-F596-4E98-BFC3-A766ACDB741F}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{4CA70D0A-9F21-417B-86B4-F394E3D52AA3}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="7" Name="List Business Day Calendar" NameU="List Business Day Calendar">
+			<Shapes>
+				<Shape ID="1" UniqueID="{07BB3B04-EB5A-44A7-910B-748D561E2C88}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Business Day Calendar</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.66</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.66</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Business Day Calendar</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{6E9FCBC4-2AD6-4813-BB14-381AD6A82DAB}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download Business Day Calendar</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Business Day Calendar</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{518B8563-6940-40B1-84AF-CE1BCD7EDCCC}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search Business Day Calendar</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Business Day Calendar</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{F7B40D99-6A35-4E76-8215-2A868E685B3B}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{B311E0A9-957B-469E-8E46-BB6B12125BCD}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="6" Name="List Commands" NameU="List Commands">
+			<Shapes>
+				<Shape ID="1" UniqueID="{A48093C6-FC08-45B8-B6A9-6A6E8032C053}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Commands</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.41</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.41</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{559E4789-185F-47F4-8021-7C984D57FC1F}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Authorize Commands</Text>
+					<XForm>
+						<PinX Unit="MM">3.543307086590552</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Authorize Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{4452B4EA-D6EB-459B-9138-DDCD4442D5A8}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Detail Commands</Text>
+					<XForm>
+						<PinX Unit="MM">8.267716535409450</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Detail Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{5E703D5D-611D-4721-9A4A-A87A81F9C27A}" Name="Posizione.16" NameU="Position.16" Master="5">
+					<Text>Action - Download Commands</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="21" UniqueID="{B544A1C1-EE2E-4D60-9AE9-5CB1C0D5875C}" Name="Posizione.21" NameU="Position.21" Master="5">
+					<Text>Action - Reject Commands</Text>
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Reject Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="26" UniqueID="{D079DC74-3FF7-4901-8120-05D2D04F514E}" Name="Posizione.26" NameU="Position.26" Master="5">
+					<Text>Action - Search Commands</Text>
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Commands</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="31" UniqueID="{5B76A70B-5E05-4A67-8DC8-D48B33528FD0}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">4.724409448795276</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="32" UniqueID="{5E83C41C-7A96-46C2-8BB3-871B75B54876}" Name="Connettore dinamico.32" NameU="Dynamic connector.32" Master="15">
+					<XForm>
+						<PinX Unit="MM">7.086614173204725</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="33" UniqueID="{74B7C68B-14F3-41E3-A201-BE7F906EADF6}" Name="Connettore dinamico.33" NameU="Dynamic connector.33" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="34" UniqueID="{9B35C399-D95A-458E-9018-44E8816C3F42}" Name="Connettore dinamico.34" NameU="Dynamic connector.34" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="35" UniqueID="{E4555EEB-807F-41D0-A05D-60B53EF1D10B}" Name="Connettore dinamico.35" NameU="Dynamic connector.35" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="22" Name="List Downloadable Reports" NameU="List Downloadable Reports">
+			<Shapes>
+				<Shape ID="1" UniqueID="{36875CAD-757C-45BD-95D2-D4F15B60E9CC}" Name="Manager" NameU="Manager" Master="4">
+					<Text>Page - List Downloadable Reports</Text>
+					<XForm>
+						<PinX Unit="MM">5.905511811000000</PinX>
+						<PinY Unit="MM">7.795275591000000</PinY>
+					</XForm>
+					<Scratch>
+						<B>
+							<SolutionXML>
+								<HLURL:Hyperlinks xmlns:HLURL="urn:schemas-microsoft-com:office:visio:dghlinkext">
+									<HLURL:Hyperlink ID="1">
+										<HLURL:Description></HLURL:Description>
+										<HLURL:Address></HLURL:Address>
+										<HLURL:SubAddress>Pagina 1/Sheet.186</HLURL:SubAddress>
+										<HLURL:ExtraInfo></HLURL:ExtraInfo>
+										<HLURL:Default>0</HLURL:Default>
+										<HLURL:NewWindow>0</HLURL:NewWindow>
+										<HLURL:AbsoluteURL>C:\Users\DambrosioAndrea\Desktop\SCC\VisioHtml\Service SCC.vsd#Pagina 1/Sheet.186</HLURL:AbsoluteURL>
+									</HLURL:Hyperlink>
+								</HLURL:Hyperlinks>
+							</SolutionXML>
+						</B>
+					</Scratch>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Page - List Downloadable Reports</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="6" UniqueID="{A198EC5F-EA22-46AE-996C-EE62C1E231FA}" Name="Posizione" NameU="Position" Master="5">
+					<Text>Action - Download Downloadable Reports</Text>
+					<XForm>
+						<PinX Unit="MM">6.496062992102363</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Download Downloadable Reports</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="11" UniqueID="{43F313A3-B694-4A35-8ED9-652B25D1EA02}" Name="Posizione.11" NameU="Position.11" Master="5">
+					<Text>Action - Search Downloadable Reports</Text>
+					<XForm>
+						<PinX Unit="MM">5.314960629897638</PinX>
+						<PinY Unit="MM">7.086614172897638</PinY>
+					</XForm>
+					<Prop ID="1" Name="Name" NameU="Name">
+						<Value Unit="STR">Action - Search Downloadable Reports</Value>
+						<Label>Nome</Label>
+					</Prop>
+					<Prop ID="2" Name="Title" NameU="Title">
+						<Value></Value>
+						<Label>Titolo</Label>
+					</Prop>
+				</Shape>
+				<Shape ID="16" UniqueID="{9BCA275A-5CC3-445C-9DCE-ED7239F3024D}" Name="Connettore dinamico" NameU="Dynamic connector" Master="15">
+					<XForm>
+						<PinX Unit="MM">6.200787401551182</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+				<Shape ID="17" UniqueID="{D05607B6-BB88-427F-9A19-75C60F7FC0B2}" Name="Connettore dinamico.17" NameU="Dynamic connector.17" Master="15">
+					<XForm>
+						<PinX Unit="MM">5.610236220448819</PinX>
+						<PinY Unit="MM">7.440944881948820</PinY>
+					</XForm>
+					<LayerMem>
+						<LayerMember></LayerMember>
+					</LayerMem>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>

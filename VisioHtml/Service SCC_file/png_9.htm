@@ -1,0 +1,167 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link rel="stylesheet" type="text/css" href="visio.css"/>
+<title>
+Service SCC
+</title>
+<script type="text/javascript" language="javascript">
+function UpdateTooltip(){};
+function OnShapeClick(){};
+</script>
+
+<script src="png_1.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" language="javascript">
+	if( (parent.isSVG) || 
+		(parent.isVML && parent.vmlSupported) || 
+		(parent.isXAML && parent.isUpLevel)) 
+	{
+		location.replace(parent.g_FileList[parent.g_CurPageIndex].PriImage);
+	}
+</script>
+
+
+<script type="text/javascript" language="javascript">
+var pageID = 21;
+var isUpLevel = parent.isUpLevel;
+var OnShapeClick = null;
+if (!parent.isMac)
+{
+	OnShapeClick = parent.OnShapeClick;
+}
+
+var OnShapeKey = parent.OnShapeKey;
+var UpdateTooltip = parent.UpdateTooltip;
+var clickMenu = parent.clickMenu;
+var toggleMenuDiv = parent.toggleMenuDiv;
+var toggleMenuLink = parent.toggleMenuLink;
+var GoToPage = parent.GoToPage;
+
+
+if (parent.isUpLevel)
+{
+
+	if (parent.g_FirstPageToLoad != null && parent.g_FirstPageToLoad.length > 0)
+	{
+		if (parent.g_FileList[parent.g_CurPageIndex].PageID != pageID)
+		{
+			var fileEntry = parent.g_FileList[parent.g_CurPageIndex];
+			var fileToLoad = fileToLoad = fileEntry.PriImage;
+			if (fileEntry.SecImage.length > 0)
+			{
+				fileToLoad = fileEntry.SecImage;
+			}
+
+			location.replace(fileToLoad);
+		}
+
+		parent.g_FirstPageToLoad = null;
+	}
+
+
+	var viewMgr = new parent.CViewMgr();
+	parent.viewMgr = viewMgr;
+
+	viewMgr.SupportsDetails = true;
+	viewMgr.SupportsSearch = true;
+
+	viewMgr.put_Location = ViewMgrSetRasterLocation;
+	viewMgr.visBBoxLeft = 1.888028;
+	viewMgr.visBBoxRight = 9.942996;
+	viewMgr.visBBoxBottom = 6.886618;
+	viewMgr.visBBoxTop = 8.011942;
+	viewMgr.highlightDiv = null;
+}
+
+function load ()
+{
+	if(isUpLevel)
+	{
+		arrowdiv.innerHTML = '<img id="arrowgif" alt="Mostra la posizione della forma selezionata" src="arrow.png"/>';
+
+		var pageIndex = parent.PageIndexFromID (pageID);
+		parent.CurPageUpdate (pageIndex);
+	}
+}
+
+function unload()
+{
+	if(isUpLevel)
+	{
+		viewMgr = null;
+		parent.viewMgr = null;
+	}
+}
+
+window.onload = load;
+window.onunload = unload;
+document.onclick = clickMenu;
+
+</script>
+<style type="text/css"> 
+body {
+	background:url(foo) fixed;
+	padding: 10px;
+}
+div.banner {
+	position: fixed;
+	_position: absolute;
+	top: 0;
+	left: 0;
+	_top: expression(eval(document.body.scrollTop));
+	_left: expression(eval(document.body.scrollLeft));
+	width: 100%;
+	_width: expression(eval(document.body.clientWidth));
+	margin: 0;
+	padding: 3px;
+	padding-left: 6px;
+	background:lime;
+	background-color: #FFFFC6;
+	font: 11px tahoma,arial,serif;
+	border-bottom: 2px ridge #FFFFC6;
+}
+</style>
+</head>
+
+<body class="pageView" bgcolor="#FFFFFF" style="margin: 0px">
+
+<script type="text/javascript" language="javascript">
+// Displays the banner prompt to install Silverlight
+if (parent.slSupported && !parent.slInstalled)
+{
+	var slBanner = document.createElement("div");
+	slBanner.className = "banner";
+	slBanner.innerHTML = 'Per attivare tutte le funzionalità, tra cui Zoom e dettaglio, <a href="http://www.microsoft.com/silverlight/resources/install.aspx" target="parent">fare clic qui</a> per installare il plug-in Silverlight.';
+
+	document.body.appendChild(slBanner);
+	document.body.style.paddingTop = "2.5em";
+}
+</script>
+
+
+<div id="arrowdiv" style="position:absolute;top:0;left:0;visibility:hidden;z-index:5">
+</div>
+
+<div id="menu1" onclick="clickMenu()" class="hlMenu">
+</div>
+<DIV id="RasterDiv" style="margin:10px">
+
+<center>
+  <IMG id="ConvertedImage" SRC="png_9.png" ALT="List Participant Operations" name=RasterImage BORDER="0" USEMAP="#visImageMap">
+</center>
+
+<MAP NAME="visImageMap">
+  <AREA shape="POLYGON" tabindex="1" ALT="Action - Search Participant Operations" origTitle="Action - Search Participant Operations" TITLE="Action - Search Participant Operations"  target="_top" COORDS="297,106,318,106,318,72,308,72,308,68,276,68,274,68,270,68,240,68,240,72,227,72,227,106,248,106,248,108,297,108,297,106" onmouseover="UpdateTooltip(this,21,36,event)" onfocus="UpdateTooltip(this,21,36,event)" onclick="return OnShapeClick(21,36,event);" onkeyup="OnShapeKey(21,36,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Action - Reject Participant Operations" origTitle="Action - Reject Participant Operations" TITLE="Action - Reject Participant Operations"  target="_top" COORDS="637,106,658,106,658,72,647,72,647,68,618,68,615,68,612,68,581,68,581,72,568,72,568,106,589,106,589,108,637,108,637,106" onmouseover="UpdateTooltip(this,21,31,event)" onfocus="UpdateTooltip(this,21,31,event)" onclick="return OnShapeClick(21,31,event);" onkeyup="OnShapeKey(21,31,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Action - Reject All Participant Operations" origTitle="Action - Reject All Participant Operations" TITLE="Action - Reject All Participant Operations"  target="_top" COORDS="751,106,772,106,772,72,767,72,767,68,724,68,722,68,719,68,688,68,688,72,681,72,681,106,702,106,702,108,751,108,751,106" onmouseover="UpdateTooltip(this,21,26,event)" onfocus="UpdateTooltip(this,21,26,event)" onclick="return OnShapeClick(21,26,event);" onkeyup="OnShapeKey(21,26,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Action - Download Participant Operations" origTitle="Action - Download Participant Operations" TITLE="Action - Download Participant Operations"  target="_top" COORDS="410,106,431,106,431,72,429,72,429,68,382,68,380,68,376,68,346,68,346,72,341,72,341,106,362,106,362,108,410,108,410,106" onmouseover="UpdateTooltip(this,21,21,event)" onfocus="UpdateTooltip(this,21,21,event)" onclick="return OnShapeClick(21,21,event);" onkeyup="OnShapeKey(21,21,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Action - Detail Participant Operations" origTitle="Action - Detail Participant Operations" TITLE="Action - Detail Participant Operations"  target="_top" COORDS="70,106,91,106,91,72,79,72,79,68,51,68,48,68,45,68,15,68,15,72,0,72,0,106,21,106,21,108,70,108,70,106" onmouseover="UpdateTooltip(this,21,16,event)" onfocus="UpdateTooltip(this,21,16,event)" onclick="return OnShapeClick(21,16,event);" onkeyup="OnShapeKey(21,16,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Action - Authorize Participant Operations" origTitle="Action - Authorize Participant Operations" TITLE="Action - Authorize Participant Operations"  target="_top" COORDS="183,106,204,106,204,72,201,72,201,68,156,68,154,68,150,68,120,68,120,72,114,72,114,106,135,106,135,108,183,108,183,106" onmouseover="UpdateTooltip(this,21,11,event)" onfocus="UpdateTooltip(this,21,11,event)" onclick="return OnShapeClick(21,11,event);" onkeyup="OnShapeKey(21,11,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Action - Authorize All Participant Operations" origTitle="Action - Authorize All Participant Operations" TITLE="Action - Authorize All Participant Operations"  target="_top" COORDS="524,106,545,106,545,72,541,72,541,68,496,68,494,68,491,68,460,68,460,72,454,72,454,106,475,106,475,108,524,108,524,106" onmouseover="UpdateTooltip(this,21,6,event)" onfocus="UpdateTooltip(this,21,6,event)" onclick="return OnShapeClick(21,6,event);" onkeyup="OnShapeKey(21,6,event);">
+  <AREA shape="POLYGON" tabindex="1" ALT="Page - List Participant Operations" origTitle="Page - List Participant Operations" TITLE="Page - List Participant Operations" HREF="" target="_top" COORDS="410,38,431,38,431,4,410,4,410,0,393,0,391,0,388,0,364,0,364,4,341,4,341,38,362,38,362,40,410,40,410,38" onmouseover="UpdateTooltip(this,21,1,event)" onfocus="UpdateTooltip(this,21,1,event)" onclick="return OnShapeClick(21,1,event);" onkeyup="OnShapeKey(21,1,event);">
+</MAP>
+
+
+</DIV>
+</body>
+</html>
